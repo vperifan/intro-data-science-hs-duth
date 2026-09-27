@@ -1,0 +1,9 @@
+[project]
+name = "intro-data-science-hs-duth"
+version = "0.1.0"
+description = "Companion material for the DUTH course on cryptography"
+authors = [
+    { name = "Vasilis Perifanis", email = "vperifan@ee.duth.gr" },
+]
+requires-python = ">=3.13,<3.14"
+dependencies = []
