@@ -6,4 +6,7 @@ authors = [
     { name = "Vasilis Perifanis", email = "vperifan@ee.duth.gr" },
 ]
 requires-python = ">=3.13,<3.14"
-dependencies = []
+dependencies = [
+    "notebook>=7.6.3",
+    "pandas>=3.0.6",
+]
