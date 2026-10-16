@@ -8,12 +8,14 @@ Companion repository containing **Jupyter Notebooks** for the course "Introducti
 ├── notebooks/
 │   ├── 01_Colab_Intro.ipynb
 │   ├── 02_Python_Lab.ipynb
+│   └── 03_Pandas_Lab.ipynb
 └── README.md
 ```
 
 ## Notebooks
 - **01_Colab_Intro.ipynb**: Introduction to Google Colab / Jupyter and basic Python programming concepts.
 - **02_Python_Lab.ipynb**: Hands-on lab session for practicing Python programming skills.
+- **03_Pandas_Lab.ipynb**: Hands-on lab session for practicing data reading and manipulation using the Pandas library.
 
 ## Running the Notebooks
 You can run the notebooks either locally or using a cloud-based Jupyter environment.
